@@ -1,0 +1,33 @@
+.logo-top {
+	width: 172px;
+}
+
+.about-content{
+	background-color: #DBDBDB;
+	
+}
+
+.about-content:hover{ 
+	background-color: orange; 
+}
+
+.app-screen-shot {
+	height: 600px;
+}
+
+#screenshot2{
+	margin-top:20px;
+}
+
+#screenshot3{
+	margin-top:40px;
+}
+
+.sponsor-logos{
+	width: 750px;
+}
+
+.main-screen{
+	height:600px;
+	
+}
